@@ -1,3 +1,5 @@
 an elephant
  a tiger 
  a zebrra
+a cougar
+ a lion
